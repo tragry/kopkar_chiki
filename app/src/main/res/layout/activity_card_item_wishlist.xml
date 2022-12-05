@@ -26,12 +26,14 @@
     <View
         android:layout_width="80dp"
         android:layout_height="1dp"/>
+
     <ImageButton
+        android:id="@+id/hapus_logo_wishlist"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_icon_hapus"
         android:layout_gravity="center_vertical"
-        android:id="@+id/hapus_logo_wishlist"/>
+        android:src="@drawable/ic_icon_hapus"
+        tools:ignore="SpeakableTextPresentCheck" />
 
 
 </LinearLayout>

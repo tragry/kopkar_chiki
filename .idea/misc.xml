@@ -3,11 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_card_item_layout_barang.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_card_item_wishlist.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_detail_barang.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_lupa_password.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_penarikan_simpanan.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_penarikan_simpanan2.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_pengajuan_pinjaman.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_perubahan_simpanan.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_pinjaman_uang.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_plafon.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_simpanan_karyawan.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_simpanan_popup.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_toko.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_ubah_password.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/activity_wishlist.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/alert_gagal.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/alert_sukses.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/card_item_pinjaman_uang.xml" value="0.27447916666666666" />
         <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/card_item_simpanan_karyawan.xml" value="0.27447916666666666" />
         <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/list_perubahan_simpanan.xml" value="0.27447916666666666" />
         <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/popup_home_pinjaman.xml" value="0.27447916666666666" />
         <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/popup_home_plafon.xml" value="0.27447916666666666" />
         <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/popup_home_simpanan.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/popup_info.xml" value="0.27447916666666666" />
+        <entry key="..\:/chiki-v15/magang/app/src/main/res/layout/popup_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

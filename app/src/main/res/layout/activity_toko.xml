@@ -29,13 +29,12 @@
 
             <EditText
                 android:layout_width="match_parent"
+                android:layout_height="48dp"
                 android:layout_marginTop="10dp"
-                android:layout_height="40dp"
-                android:padding="10dp"
-                android:hint="Cari"
+                android:background="@drawable/roundedcorner"
                 android:drawableEnd="@drawable/ic_search"
-                android:background="@drawable/roundedcorner">
-            </EditText>
+                android:hint="Cari"
+                android:padding="10dp"></EditText>
 
 
 <!--            <ImageView-->
@@ -49,7 +48,8 @@
 
             <HorizontalScrollView
                 android:layout_width="330dp"
-                android:layout_height="60dp">
+                android:layout_height="60dp"
+                tools:ignore="SpeakableTextPresentCheck">
 
                 <LinearLayout
                     android:layout_width="wrap_content"

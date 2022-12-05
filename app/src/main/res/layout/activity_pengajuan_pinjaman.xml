@@ -83,7 +83,8 @@
                         android:paddingVertical="3dp"
                         android:paddingLeft="10dp"
                         android:textColorHint="@color/white"
-                        android:textSize="12dp" />
+                        android:textSize="12dp"
+                        tools:ignore="TextContrastCheck" />
                 </LinearLayout>
 
                 <TextView
@@ -103,7 +104,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -122,7 +124,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -141,7 +144,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -170,7 +174,8 @@
                         android:paddingVertical="3dp"
                         android:paddingLeft="10dp"
                         android:textColorHint="@color/white"
-                        android:textSize="12dp" />
+                        android:textSize="12dp"
+                        tools:ignore="TextContrastCheck" />
                 </LinearLayout>
 
                 <TextView
@@ -200,7 +205,8 @@
                         android:paddingVertical="3dp"
                         android:paddingLeft="10dp"
                         android:textColorHint="@color/white"
-                        android:textSize="12dp" />
+                        android:textSize="12dp"
+                        tools:ignore="TextContrastCheck" />
                 </LinearLayout>
 
                 <View
@@ -239,7 +245,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -258,7 +265,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -277,7 +285,8 @@
                     android:paddingVertical="3dp"
                     android:paddingLeft="10dp"
                     android:textColorHint="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12dp"
+                    tools:ignore="TextContrastCheck" />
 
                 <TextView
                     android:layout_width="match_parent"
