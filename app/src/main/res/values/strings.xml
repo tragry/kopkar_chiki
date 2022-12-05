@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Chiki AraJeje</string>
+    <string name="title_activity_coba">coba</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="forgot"><u>Forgot your password?</u></string>
+    <!--    <string name="deskripsi_bolpoint">-->
+    <!--        Kondisi: Baru \nBerat Satuan: 10 g \nKategori: Pulpen \nEtalase: - PULPEN STANDARD \nPULPEN / Pen Standard AE7 warna Hitam / Biru / Merah - PER LUSIN \nPen Standard AE-7 \n\nSpesifikasi Produk \nJenis: Pen \nMerk : Standard \nTip : 0.5 mm \nTinta: Hitam, Biru, Merah \nWarna body: sesuai gambar \n\nHarga yang tercantum di atas adalah harga per pcs \n\nBarang yang kami jual dijamin Original (Asli).</string>-->
+    <!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="nama_barang">
+        <item>GILLETE GOAL KLIK</item>
+        <item>ABC BATRAI BESAR</item>
+        <item>BALLPOINT STANDAR</item>
+        <item>AMPLOP SURAT BESAR</item>
+        <item>ZWITSAL BEDAK</item>
+        <item>ROMA MALKIST CRAKERS 135g</item>
+    </string-array>
+
+    <string-array name="deskripsi_barang">
+         <item>
+             Kondisi: Baru \n
+            Berat Satuan: 30 g \n
+            Kategori: Pencukur Bulu \n
+            Etalase: - Semua \n
+            Pencukur Bulu Gillete warna Hitam / Biru / Merah \n
+
+            Spesifikasi Produk \n
+            Jenis: Pencukur Rambut \n
+            Merk : Gillete \n
+            Warna: Hitam / Biru / Merah \n\n
+
+            Harga yang tercantum di atas adalah harga per 2pcs \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+        <item>
+             Kondisi: Baru \n
+            Kategori: Baterai \n
+            Etalase: - Semua \n
+            Batrai ABC besar \n
+
+            Spesifikasi Produk \n
+            Jenis: Baterai \n
+            Merk : ABC \n
+            Warna: Biru \n\n
+
+            Harga yang tercantum di atas adalah harga per pcs \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+        <item>
+             Kondisi: Baru \n
+            Berat Satuan: 10 g \n
+            Kategori: Pulpen \n
+            Etalase: - Semua \n
+            PULPEN / Pen Standard AE7 warna Hitam / Biru / Merah \n
+            PER LUSIN \n
+            Pen Standard AE-7 \n
+
+            Spesifikasi Produk \n
+            Jenis: Pen \n
+            Merk : Standard \n
+            Tip : 0.5 mm \n
+            Tinta: Hitam, Biru, Merah \n
+            Warna body: sesuai gambar \n\n
+
+            Harga yang tercantum di atas adalah harga per pcs \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+        <item>
+             Kondisi: Baru \n
+            Berat Satuan: 335 g \n
+            Kategori: Amplop \n
+            Etalase: - Semua \n
+            Amplop Surat warna Putih
+
+            Spesifikasi Produk \n
+            Jenis: Amplop \n
+            Merk : Paperline \n
+            Warna: Putih \n\n
+
+            Harga yang tercantum di atas adalah harga per pcs \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+        <item>
+             Kondisi: Baru \n
+            Berat Satuan: 300 g \n
+            Kategori: Bedak Bayi \n
+            Etalase: - Semua \n
+            Bedak Bayi Zwitsal Powder
+
+            Spesifikasi Produk \n
+            Jenis: Bedak \n
+            Merk : Zwitsal \n
+
+            Harga yang tercantum di atas adalah harga per pcs \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+        <item>
+            Kondisi: Baru \nBerat Satuan: 135 g \n
+            Kategori: Biskuit dan Wafer \n
+            Etalase: - Makanan \n
+            Roma Malkist Crackers \n
+
+            Spesifikasi Produk \n
+            Jenis: Biskuit \n
+            Merk : Roma \n
+
+            Harga yang tercantum di atas adalah harga per pack \n\n
+
+            Barang yang kami jual dijamin Original (Asli).
+        </item>
+    </string-array>
+
+    <string-array name="harga_barang">
+        <item>Rp 8.000</item>
+        <item>Rp 6.000</item>
+        <item>Rp 1.000</item>
+        <item>Rp 300</item>
+        <item>Rp 5.500</item>
+        <item>Rp 5.000</item>
+    </string-array>
+
+    <string-array name="rating_barang">
+        <item>4.8</item>
+        <item>4.9</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4.9</item>
+    </string-array>
+
+    <string-array name="satuan_barang">
+        <item>Pcs</item>
+        <item>2Pcs</item>
+        <item>Pcs</item>
+        <item>Pcs</item>
+        <item>Buah</item>
+        <item>Pack</item>
+    </string-array>
+
+    <string-array name="stock_barang">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+
+    //Simpanan
+    <string-array name="simpanan">
+        <item>Simpanan Pokok</item>
+        <item>Simpanan Wajib</item>
+        <item>Simpanan Pensiun</item>
+        <item>Simpanan Usaha</item>
+    </string-array>
+
+    <string-array name="id">
+        <item>1/{KR0R0-005/09/22</item>
+        <item>2/{KR0R0-006/09/22</item>
+        <item>3/{KR0R0-007/09/22</item>
+        <item>4/{KR0R0-008/09/22</item>
+    </string-array>
+
+    <string-array name="jml_persetor">
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+    </string-array>
+
+    <string-array name="total_simpanan">
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+    </string-array>
+
+    <string-array name="total_penarikan">
+        <item>Rp. 0</item>
+        <item>Rp. 0</item>
+        <item>Rp. 0</item>
+        <item>Rp. 0</item>
+    </string-array>
+
+    <string-array name="total_saldo">
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+        <item>Rp. 50,000</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tiara.anggreyani.chicken">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="androidx.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Chiki">
+        <activity
+            android:name=".SimpananKaryawanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PinjamanUangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".card_item_layout_barang"
+            android:exported="true" />
+        <activity
+            android:name=".DetailBarangActivity"
+            android:exported="true"
+            android:label="Detail"
+            android:parentActivityName=".TokoActivity" />
+        <activity
+            android:name=".WishlistActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CardItemWishlistActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SimpananPopupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PengajuanPinjamanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PenarikanSimpananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PenarikanSimpanan2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PerubahanSimpananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbahPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LupaPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TokoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PlafonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

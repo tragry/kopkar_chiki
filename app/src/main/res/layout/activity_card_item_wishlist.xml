@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="340dp"
+    android:layout_height="76dp"
+    android:background="@drawable/roundedwithgreenstroke"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    tools:context=".CardItemWishlistActivity">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_gamabar_wishlist"
+        android:layout_gravity="center_vertical"
+        android:paddingLeft="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Produk"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/nama_produk_wishlist"/>
+    <View
+        android:layout_width="80dp"
+        android:layout_height="1dp"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_icon_hapus"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/hapus_logo_wishlist"/>
+
+
+</LinearLayout>
